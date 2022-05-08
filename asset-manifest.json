@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/IslamApp/static/css/main.1ffd0de4.css",
+    "main.js": "/IslamApp/static/js/main.56cc9a72.js",
+    "static/media/cover.png": "/IslamApp/static/media/cover.99f8e2039a2bd0cdf2d3.png",
+    "static/media/أطفال_التطبيق.png": "/IslamApp/static/media/أطفال_التطبيق.46060432be058f53fe81.png",
+    "static/media/أطفال_مسابقة_داخلى.png": "/IslamApp/static/media/أطفال_مسابقة_داخلى.f73b7a88d424a5e7df4c.png",
+    "static/media/الاطفال_رئيسية.png": "/IslamApp/static/media/الاطفال_رئيسية.0d39f6f6523b2e8bdb25.png",
+    "static/media/لوحات_رئيسية.png": "/IslamApp/static/media/لوحات_رئيسية.0763c5183e0f42daa7a3.png",
+    "static/media/أطفال_لوحات_خلفية.png": "/IslamApp/static/media/أطفال_لوحات_خلفية.8cdb6df3e35ffb6c8141.png",
+    "static/media/أطفال_لوحة1.png": "/IslamApp/static/media/أطفال_لوحة1.e7d3e4429448f4c95c16.png",
+    "static/media/أطفال_مسابقة.png": "/IslamApp/static/media/أطفال_مسابقة.be01d58a7f2a3b7c37dc.png",
+    "static/media/video_img6.png": "/IslamApp/static/media/video_img6.de5dd2180c01c3b41d8f.png",
+    "static/media/video_img5.png": "/IslamApp/static/media/video_img5.40472b6b4cfeede0ce4e.png",
+    "static/media/tablet.png": "/IslamApp/static/media/tablet.c4eb0cf5b114982187f4.png",
+    "static/media/أطفال_لوحة3.png": "/IslamApp/static/media/أطفال_لوحة3.d76f2532cb8a0fe23452.png",
+    "static/media/video_img1.png": "/IslamApp/static/media/video_img1.88b248d5e69468732326.png",
+    "static/media/فيديو_رئيسية.png": "/IslamApp/static/media/فيديو_رئيسية.7cbffeb3f910f79f325c.png",
+    "static/media/video_img4.png": "/IslamApp/static/media/video_img4.825d0a813281cae35143.png",
+    "static/media/أطفال_لوحة2.png": "/IslamApp/static/media/أطفال_لوحة2.2da3b07ec902c61553c8.png",
+    "static/media/video_img2.png": "/IslamApp/static/media/video_img2.29bd0bb80d460a3e0698.png",
+    "static/media/video_img3.png": "/IslamApp/static/media/video_img3.3980d024d69ff0dc39fc.png",
+    "static/media/video_img7.png": "/IslamApp/static/media/video_img7.879ab4ead5dbe90700a6.png",
+    "static/media/mobile.png": "/IslamApp/static/media/mobile.6e18b1bf248c421ac941.png",
+    "static/media/Alphotoshop.com_TheSans-Plain (2).otf": "/IslamApp/static/media/Alphotoshop.com_TheSans-Plain (2).515827cddc1b9c1a5b48.otf",
+    "static/media/Alphotoshop.com_TheSans-Bold.otf": "/IslamApp/static/media/Alphotoshop.com_TheSans-Bold.6eff96d7a14d384f1ade.otf",
+    "static/media/GooglePlay.png": "/IslamApp/static/media/GooglePlay.bf767d7edef6a11b0319.png",
+    "static/media/AppStore.png": "/IslamApp/static/media/AppStore.0dbe417583f704cbe564.png",
+    "static/media/logo.png": "/IslamApp/static/media/logo.b74104d75313e08a8c14.png",
+    "index.html": "/IslamApp/index.html",
+    "main.1ffd0de4.css.map": "/IslamApp/static/css/main.1ffd0de4.css.map",
+    "main.56cc9a72.js.map": "/IslamApp/static/js/main.56cc9a72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ffd0de4.css",
+    "static/js/main.56cc9a72.js"
+  ]
+}
