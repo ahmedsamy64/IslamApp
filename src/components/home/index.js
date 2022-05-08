@@ -15,7 +15,7 @@ export default function Home() {
     setCurrentLanguage(null);
     sessionStorage.setItem('language', "");
     document.getElementById("home-container").classList.toggle("home-container__fading");
-    setTimeout(() => history.replace("/"), 1000);
+    setTimeout(() => history.replace("/IslamApp"), 1000);
   }
   const handleSelection = (selection) => {
     document.getElementById("home-container").classList.replace("home-container", `${selection}-container`);
@@ -76,7 +76,7 @@ export default function Home() {
       <div className='home-container__restart' onClick={handleRestart}>
         إبدأ من جديد
       </div>
-      {cardSelected && <div className='home-container__goToHome' onClick={() => history.replace("/home")}>
+      {cardSelected && <div className='home-container__goToHome' onClick={() => history.replace("/IslamApp/home")}>
         القائمة الرئيسية
       </div>}
       {cardSelected === "videos" && <div className='home-container__goToHome' style={{ left: '33.8vw' }} >

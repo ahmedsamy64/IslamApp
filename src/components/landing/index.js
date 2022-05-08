@@ -29,7 +29,7 @@ export default function Landing(props) {
         document.getElementById(`selected-Language-${i}`).classList.toggle("language-selected");
         document.getElementById('language-table').classList.toggle("landing-container__with-border__table__faded");
         setTimeout(() => {
-            history.push("./home")
+            history.replace("/IslamApp/home")
         }, 3200);
     }
 

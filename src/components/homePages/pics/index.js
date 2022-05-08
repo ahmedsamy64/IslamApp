@@ -13,7 +13,7 @@ export default function Pics() {
         setCurrentLanguage(null);
         sessionStorage.setItem('language', "");
         document.getElementById("home-container").classList.toggle("home-container__fading");
-        setTimeout(() => history.replace("/"), 1000);
+        setTimeout(() => history.replace("/IslamApp"), 1000);
     }
 
     //   const handleSelection = (selection) => {
@@ -47,7 +47,7 @@ export default function Pics() {
             <div className='home-container__restart' style={{ animation: "none", left: 0 }} onClick={handleRestart}>
                 إبدأ من جديد
             </div>
-            <div className='home-container__goToHome' style={{ animation: 'none', bottom: 0 }} onClick={() => history.replace("/home")}>
+            <div className='home-container__goToHome' style={{ animation: 'none', bottom: 0 }} onClick={() => history.replace("/IslamApp/home")}>
                 القائمة الرئيسية
             </div>
         </div >

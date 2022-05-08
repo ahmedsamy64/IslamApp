@@ -22,7 +22,7 @@ export default function Childs() {
         setCurrentLanguage(null);
         sessionStorage.setItem('language', "");
         document.getElementById("home-container").classList.toggle("home-container__fading");
-        setTimeout(() => history.replace("/"), 1000);
+        setTimeout(() => history.replace("/IslamApp"), 1000);
     }
 
     const handleSelection = (selection) => {
@@ -55,7 +55,7 @@ export default function Childs() {
 
     return (
         <div id="home-container" className='option-container'>
-            <div id="div-titles" className='option-container__div-titles' onClick={() => history.replace("/childs")}>
+            <div id="div-titles" className='option-container__div-titles' onClick={() => history.replace("/IslamApp/childs")}>
                 <div style={{ backgroundColor: "#48956f" }} >
                     الأطفال
                 </div>
@@ -101,7 +101,7 @@ export default function Childs() {
             <div className='home-container__restart' style={{ animation: "none", left: 0 }} onClick={handleRestart}>
                 إبدأ من جديد
             </div>
-            <div className='home-container__goToHome' style={{ animation: 'none', bottom: 0 }} onClick={() => history.replace("/home")}>
+            <div className='home-container__goToHome' style={{ animation: 'none', bottom: 0 }} onClick={() => history.replace("/IslamApp/home")}>
                 القائمة الرئيسية
             </div>
             {selectedOption && <div className='home-container__goToHome' style={{ left: '33.8vw' }} >
