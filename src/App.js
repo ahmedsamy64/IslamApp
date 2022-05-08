@@ -8,7 +8,7 @@ import Videos from './components/homePages/videos';
 import Pics from './components/homePages/pics';
 import Landing from './components/landing';
 import PageBorders from './components/pageBorders';
-import { Route, Redirect, Switch, withRouter } from 'react-router-dom'
+import { Route, Switch } from 'react-router-dom'
 import { useLocation } from 'react-router-dom';
 import { useLanguage } from "./context";
 
