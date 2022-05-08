@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/IslamApp/static/css/main.1ffd0de4.css",
-    "main.js": "/IslamApp/static/js/main.4a1dc6d5.js",
+    "main.js": "/IslamApp/static/js/main.bfabb964.js",
     "static/media/cover.png": "/IslamApp/static/media/cover.99f8e2039a2bd0cdf2d3.png",
     "static/media/أطفال_التطبيق.png": "/IslamApp/static/media/أطفال_التطبيق.46060432be058f53fe81.png",
     "static/media/أطفال_مسابقة_داخلى.png": "/IslamApp/static/media/أطفال_مسابقة_داخلى.f73b7a88d424a5e7df4c.png",
@@ -29,10 +29,10 @@
     "static/media/logo.png": "/IslamApp/static/media/logo.b74104d75313e08a8c14.png",
     "index.html": "/IslamApp/index.html",
     "main.1ffd0de4.css.map": "/IslamApp/static/css/main.1ffd0de4.css.map",
-    "main.4a1dc6d5.js.map": "/IslamApp/static/js/main.4a1dc6d5.js.map"
+    "main.bfabb964.js.map": "/IslamApp/static/js/main.bfabb964.js.map"
   },
   "entrypoints": [
     "static/css/main.1ffd0de4.css",
-    "static/js/main.4a1dc6d5.js"
+    "static/js/main.bfabb964.js"
   ]
 }
